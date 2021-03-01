@@ -1,16 +1,15 @@
-### Hi there 👋
+### My Profile
 
-<!--
-**ryangibb1991/ryangibb1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Learning new skills
+- 🌱 I’m currently learning ... Bachelor in IT
+- 👯 I’m looking to collaborate on ... java
+- 🤔 I’m looking for help with ... Programming, Coding & JavaScript
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I like gaming on Xbox, Fishing & Classic Holdens
+- 🎓 Current Education: ... RMIT University Melbourne
+- 💳 Student ID: ... s3904488
+- 🌏 Nationality: ... Australian
+- 📧 Email: ... [RMIT Email](s3904488@student.rmit.edu.au)
+- 🎓 Previous Education: ... Certificate 3 in Logistics, Certificate 3 in Food Processing, Certificate 2 in Construction
