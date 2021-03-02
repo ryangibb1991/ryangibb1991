@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... anything involved with IT
 - 🤔 I’m looking for help with ... Programming, Coding, JavaScript & Web Designing
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)  [Instagram](https://www.instagram.com/shad0wman13/)  [LinkedIn](www.linkedin.com/ryan-gibb-4aa03b208)
+- 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)  [Instagram](https://www.instagram.com/shad0wman13/)  [LinkedIn](https://www.linkedin.com/in/ryan-gibb-4aa03b208)
 - ⚡ Fun fact: ... I like gaming on Xbox, Fishing & Motorsport Racing
 - 🎓 Current Education: ... RMIT University Melbourne
 - 💳 Student ID: ... s3904488
