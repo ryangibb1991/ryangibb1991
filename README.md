@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ... Programming, Coding, JavaScript & Web Designing
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)
+-                           [Instagram](https://www.instagram.com/shad0wman13/)
 - ⚡ Fun fact: ... I like gaming on Xbox, Fishing & Motorsport Racing
 - 🎓 Current Education: ... RMIT University Melbourne
 - 💳 Student ID: ... s3904488
