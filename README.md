@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with ... Programming, Coding & JavaScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)
--                           [Microsoft Outlook](ShadowMan_13@outlook.com)
 - ⚡ Fun fact: ... I like gaming on Xbox, Fishing & Motorsport Racing
 - 🎓 Current Education: ... RMIT University Melbourne
 - 💳 Student ID: ... s3904488
