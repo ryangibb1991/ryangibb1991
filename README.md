@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... Learning new skills
 - 🌱 I’m currently learning ... Bachelor in IT
 - 👯 I’m looking to collaborate on ... anything involved with IT
-- 🤔 I’m looking for help with ... Programming, Coding & JavaScript
+- 🤔 I’m looking for help with ... Programming, Coding, JavaScript & Web Designing
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...  [Facebook](https://www.facebook.com/Shad0wMan13)
 - ⚡ Fun fact: ... I like gaming on Xbox, Fishing & Motorsport Racing
